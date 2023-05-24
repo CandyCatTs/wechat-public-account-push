@@ -21,7 +21,7 @@ wx9bf0f51bd3f46195',
   USERS: [
     {
       // 想要发送的人的名字
-      name: '小红媳妇儿',
+      name: '小红媳妇',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oND-r5oc8H7jx4A0w2Hl3HGaSxV4	',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
@@ -52,6 +52,7 @@ wx9bf0f51bd3f46195',
   ],
 
 }
+
 
 module.exports = USER_CONFIG
 
